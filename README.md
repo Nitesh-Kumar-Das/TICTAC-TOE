@@ -1,3 +1,3 @@
 # TICTAC-TOE
-this my first time on craating a game on java.
-I'm in learning period.
+My first Java game creation.
+I am currently in a learning period and I am actively seeking out new knowledge to improve my skills.
