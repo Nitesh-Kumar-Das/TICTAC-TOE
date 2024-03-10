@@ -1,2 +1,3 @@
 # TICTAC-TOE
-this my firat time on craating a game 
+this my first time on craating a game on java.
+I'm in learning period.
