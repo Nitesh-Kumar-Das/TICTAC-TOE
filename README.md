@@ -32,7 +32,7 @@ To run this game on your local machine, follow these steps:
 1. **Clone the repository:**
    Open your terminal or command prompt and run the following command to clone the repository:
    ```sh
-   git clone https://github.com/your-username/tic-tac-toe-java.git
+   git clone https://github.com/Nitesh-Kumar-Das/TICTAC-TOE.git
    ```
 
 2. **Navigate to the project directory:**
